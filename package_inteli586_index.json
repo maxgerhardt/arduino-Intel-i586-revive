@@ -1,17 +1,17 @@
 {
   "packages": [
         {
-          "name": "[REVIVED] Intel i586 Boards",
+          "name": "Testtest",
           "architecture": "i586",
           "version": "1.6.7+1.0",
-          "category": "i586",
+          "category": "contributed",
           "url": "https://github.com/01org/corelibs-galileo/archive/1.6.7+1.0.tar.gz",
           "archiveFileName": "corelibs-galileo-1.6.7.tar.gz",
           "checksum": "SHA-256:4d161dde4c95ef8ebc264ca444ee6d1baaee70f9fd416e5f234f3f5cdd4ee028",
           "size": "273392",
           "boards": [
             {
-              "name": "Galileo"
+              "name": "Galileo (Rev)"
             }
           ],
           "toolsDependencies": [
