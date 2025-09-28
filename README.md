@@ -6,7 +6,7 @@ This repository has a fixed package index that you can point to, to successfully
 
 Just add this URL to File -> Preferences -> Additional board manager URLs:
 ```
-https://raw.githubusercontent.com/maxgerhardt/arduino-Intel-i586-revive/refs/heads/main/package_index.json
+https://raw.githubusercontent.com/maxgerhardt/arduino-Intel-i586-revive/refs/heads/main/package_inteli586_index.json
 ```
 
 Then search for "[REVIVED] Intel i586 Boards" in your board manager.
