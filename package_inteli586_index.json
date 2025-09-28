@@ -17,12 +17,12 @@
           "toolsDependencies": [
             {
               "packager": "Intel",
-              "name": "i586-poky-linux-uclibc",
+              "name": "i586-poky-linux-uclibc2",
               "version": "1.6.2+1.0"
             },
             {
               "packager": "Intel",
-              "name": "sketchUploader",
+              "name": "sketchUploader2",
               "version": "1.6.2+1.0"
             }
           ]
@@ -30,7 +30,7 @@
       ],
       "tools": [
         {
-          "name": "i586-poky-linux-uclibc",
+          "name": "i586-poky-linux-uclibc2",
           "version": "1.6.2+1.0",
           "systems": [
             {
@@ -64,7 +64,7 @@
           ]
         },
         {
-          "name": "sketchUploader",
+          "name": "sketchUploader2",
           "version": "1.6.2+1.0",
           "systems": [
             {
