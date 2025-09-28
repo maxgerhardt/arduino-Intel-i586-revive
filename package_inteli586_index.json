@@ -1,16 +1,16 @@
 {
   "packages": [
     {
-      "name": "GalileoRevive",
-      "maintainer": "Arduino",
-      "websiteURL": "https://www.arduino.cc/",
-      "email": "packages@arduino.cc",
+      "name": "Intel",
+      "maintainer": "Intel",
+      "websiteURL": "https://maker.intel.com/",
+      "email": "support@intel.com",
       "help": {
-        "online": "https://www.arduino.cc/en/Reference/HomePage"
+        "online": ""
       },
       "platforms": [
         {
-          "name": "Testtest",
+          "name": "Revived Intel i586 Boards",
           "architecture": "i586",
           "version": "1.6.7+1.0",
           "category": "Contributed",
@@ -25,12 +25,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "GalileoRevive",
+              "packager": "Intel",
               "name": "i586-poky-linux-uclibc2",
               "version": "1.6.2+1.0"
             },
             {
-              "packager": "GalileoRevive",
+              "packager": "Intel",
               "name": "sketchUploader2",
               "version": "1.6.2+1.0"
             }
