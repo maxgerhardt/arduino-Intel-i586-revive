@@ -1,7 +1,6 @@
 {
   "packages": [
         {
-          "deprecated": true,
           "name": "[REVIVED] Intel i586 Boards",
           "architecture": "i586",
           "version": "1.6.7+1.0",
