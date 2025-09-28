@@ -20,18 +20,18 @@
           "size": "273392",
           "boards": [
             {
-              "name": "Galileo (Rev)"
+              "name": "Galileo"
             }
           ],
           "toolsDependencies": [
             {
               "packager": "Intel",
-              "name": "i586-poky-linux-uclibc2",
+              "name": "i586-poky-linux-uclibc",
               "version": "1.6.2+1.0"
             },
             {
               "packager": "Intel",
-              "name": "sketchUploader2",
+              "name": "sketchUploader",
               "version": "1.6.2+1.0"
             }
           ]
@@ -39,7 +39,7 @@
       ],
       "tools": [
         {
-          "name": "i586-poky-linux-uclibc2",
+          "name": "i586-poky-linux-uclibc",
           "version": "1.6.2+1.0",
           "systems": [
             {
@@ -73,7 +73,7 @@
           ]
         },
         {
-          "name": "sketchUploader2",
+          "name": "sketchUploader",
           "version": "1.6.2+1.0",
           "systems": [
             {
