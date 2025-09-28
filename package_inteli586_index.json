@@ -1,5 +1,14 @@
 {
   "packages": [
+    {
+      "name": "arduino",
+      "maintainer": "Arduino",
+      "websiteURL": "https://www.arduino.cc/",
+      "email": "packages@arduino.cc",
+      "help": {
+        "online": "https://www.arduino.cc/en/Reference/HomePage"
+      },
+      "platforms": [
         {
           "name": "Testtest",
           "architecture": "i586",
@@ -98,4 +107,6 @@
           ]
         }
       ]
+    } 
+  ]
 }
