@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "arduino",
+      "name": "GalileoRevive",
       "maintainer": "Arduino",
       "websiteURL": "https://www.arduino.cc/",
       "email": "packages@arduino.cc",
@@ -25,12 +25,12 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "Intel",
+              "packager": "GalileoRevive",
               "name": "i586-poky-linux-uclibc2",
               "version": "1.6.2+1.0"
             },
             {
-              "packager": "Intel",
+              "packager": "GalileoRevive",
               "name": "sketchUploader2",
               "version": "1.6.2+1.0"
             }
